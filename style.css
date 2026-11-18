@@ -62,3 +62,10 @@ img {
     margin: auto;
     border-radius: 12px;
 }
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: cadetblue;
+    margin-top: 8px;
+}
